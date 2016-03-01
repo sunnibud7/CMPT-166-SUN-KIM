@@ -1,5 +1,5 @@
 /* @author Sun Kim
- * 
+ * I got some help from www.java-forums.org/forum.php
  * Card Matching game yay
  */
 import java.util.*;
